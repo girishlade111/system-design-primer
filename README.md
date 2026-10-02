@@ -57,3 +57,11 @@ The provided [Anki flashcard decks](https://apps.ankiweb.net/) use spaced repeti
 * [System design deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design.apkg)
 * [System design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design%20Exercises.apkg)
 * [Object oriented design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/OO%20Design.apkg)
+
+---
+
+## About this fork
+
+This is a personal fork of [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) — the classic open-source resource for learning large-scale system design and preparing for system design interviews. All original content is by the upstream author and contributors.
+
+Forked by [Girish Lade](https://ladestack.in)
